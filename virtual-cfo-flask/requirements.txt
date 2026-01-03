@@ -1,0 +1,15 @@
+Flask
+python-dotenv
+langchain
+langchain-huggingface
+langchain-google-genai
+langchain-community
+langchain-experimental
+faiss-cpu
+sentence-transformers
+pypdf
+pandas
+tabulate
+flask-cors
+matplotlib
+seaborn
