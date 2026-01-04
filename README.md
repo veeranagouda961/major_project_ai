@@ -92,7 +92,6 @@ Database integration
 AI-driven financial insights
 
 
-
 ## Author
 **Veeranagouda**  
 Final Year Engineering Student
