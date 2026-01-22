@@ -1,4 +1,4 @@
-# major_project_ai
+# Major_Project_Ai
 # Major Project – AI-Based Financial & Backend System
 
 ## Overview
